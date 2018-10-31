@@ -21,3 +21,7 @@ Deploy
 ======
 
 You will create Wercker pipelines to build, publish, and deploy this microservice during the workshop.
+
+Test
+======
+This is a Test change from Soren Arleth
